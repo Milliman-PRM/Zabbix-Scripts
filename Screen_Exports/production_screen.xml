@@ -6,7 +6,7 @@
         <screen>
             <name>Production Machines</name>
             <hsize>3</hsize>
-            <vsize>21</vsize>
+            <vsize>31</vsize>
             <screen_items>
                  <screen_item>
                     <resourcetype>0</resourcetype>
@@ -849,7 +849,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>11</y>
+                    <y>12</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -871,7 +871,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>12</y>
+                    <y>13</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -893,7 +893,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>12</y>
+                    <y>13</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -915,7 +915,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>12</y>
+                    <y>13</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -937,7 +937,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>13</y>
+                    <y>14</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -959,7 +959,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>13</y>
+                    <y>14</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -981,7 +981,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>13</y>
+                    <y>14</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1003,7 +1003,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>14</y>
+                    <y>15</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1025,7 +1025,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>14</y>
+                    <y>15</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1047,7 +1047,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>14</y>
+                    <y>15</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1069,7 +1069,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>15</y>
+                    <y>16</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1091,7 +1091,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>15</y>
+                    <y>16</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1113,7 +1113,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>15</y>
+                    <y>16</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1135,72 +1135,6 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>16</y>
-                    <colspan>1</colspan>
-                    <rowspan>1</rowspan>
-                    <elements>0</elements>
-                    <valign>0</valign>
-                    <halign>0</halign>
-                    <style>0</style>
-                    <url/>
-                    <dynamic>0</dynamic>
-                    <sort_triggers>0</sort_triggers>
-                    <resource>
-                        <name>CPU load</name>
-                        <host>Indy-JKA-04</host>
-                    </resource>
-                    <max_columns>3</max_columns>
-                    <application/>
-                </screen_item>
-                <screen_item>
-                    <resourcetype>0</resourcetype>
-                    <width>500</width>
-                    <height>100</height>
-                    <x>1</x>
-                    <y>16</y>
-                    <colspan>1</colspan>
-                    <rowspan>1</rowspan>
-                    <elements>0</elements>
-                    <valign>0</valign>
-                    <halign>0</halign>
-                    <style>0</style>
-                    <url/>
-                    <dynamic>0</dynamic>
-                    <sort_triggers>0</sort_triggers>
-                    <resource>
-                        <name>Network traffic on Intel(R) Ethernet Connection (2) I219-V</name>
-                        <host>Indy-JKA-04</host>
-                    </resource>
-                    <max_columns>3</max_columns>
-                    <application/>
-                </screen_item>
-                <screen_item>
-                    <resourcetype>0</resourcetype>
-                    <width>500</width>
-                    <height>100</height>
-                    <x>2</x>
-                    <y>16</y>
-                    <colspan>1</colspan>
-                    <rowspan>1</rowspan>
-                    <elements>0</elements>
-                    <valign>0</valign>
-                    <halign>0</halign>
-                    <style>0</style>
-                    <url/>
-                    <dynamic>0</dynamic>
-                    <sort_triggers>0</sort_triggers>
-                    <resource>
-                        <name>Memory usage</name>
-                        <host>Indy-JKA-04</host>
-                    </resource>
-                    <max_columns>3</max_columns>
-                    <application/>
-                </screen_item>
-                <screen_item>
-                    <resourcetype>0</resourcetype>
-                    <width>500</width>
-                    <height>100</height>
-                    <x>0</x>
                     <y>17</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
@@ -1213,7 +1147,7 @@
                     <sort_triggers>0</sort_triggers>
                     <resource>
                         <name>CPU load</name>
-                        <host>indy-jkb-01</host>
+                        <host>Indy-JKA-04</host>
                     </resource>
                     <max_columns>3</max_columns>
                     <application/>
@@ -1235,7 +1169,7 @@
                     <sort_triggers>0</sort_triggers>
                     <resource>
                         <name>Network traffic on Intel(R) Ethernet Connection (2) I219-V</name>
-                        <host>indy-jkb-01</host>
+                        <host>Indy-JKA-04</host>
                     </resource>
                     <max_columns>3</max_columns>
                     <application/>
@@ -1257,6 +1191,72 @@
                     <sort_triggers>0</sort_triggers>
                     <resource>
                         <name>Memory usage</name>
+                        <host>Indy-JKA-04</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>0</x>
+                    <y>18</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>CPU load</name>
+                        <host>indy-jkb-01</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>1</x>
+                    <y>18</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>Network traffic on Intel(R) Ethernet Connection (2) I219-V</name>
+                        <host>indy-jkb-01</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>2</x>
+                    <y>18</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>Memory usage</name>
                         <host>indy-jkb-01</host>
                     </resource>
                     <max_columns>3</max_columns>
@@ -1267,7 +1267,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>18</y>
+                    <y>19</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1289,7 +1289,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>18</y>
+                    <y>19</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1311,7 +1311,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>18</y>
+                    <y>19</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1333,7 +1333,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>19</y>
+                    <y>20</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1355,7 +1355,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>19</y>
+                    <y>20</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1377,7 +1377,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>19</y>
+                    <y>20</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1399,7 +1399,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>20</y>
+                    <y>21</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1421,7 +1421,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>20</y>
+                    <y>21</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1443,7 +1443,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>20</y>
+                    <y>21</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1465,7 +1465,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>21</y>
+                    <y>22</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1487,7 +1487,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>21</y>
+                    <y>22</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1509,7 +1509,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>21</y>
+                    <y>22</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1531,7 +1531,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>22</y>
+                    <y>23</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1553,7 +1553,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>22</y>
+                    <y>23</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1575,7 +1575,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>22</y>
+                    <y>23</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1597,7 +1597,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>23</y>
+                    <y>24</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1619,7 +1619,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>23</y>
+                    <y>24</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1641,7 +1641,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>23</y>
+                    <y>24</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1654,72 +1654,6 @@
                     <resource>
                         <name>Memory usage</name>
                         <host>Indy-JKB-07</host>
-                    </resource>
-                    <max_columns>3</max_columns>
-                    <application/>
-                </screen_item>
-                <screen_item>
-                    <resourcetype>0</resourcetype>
-                    <width>500</width>
-                    <height>100</height>
-                    <x>0</x>
-                    <y>24</y>
-                    <colspan>1</colspan>
-                    <rowspan>1</rowspan>
-                    <elements>0</elements>
-                    <valign>0</valign>
-                    <halign>0</halign>
-                    <style>0</style>
-                    <url/>
-                    <dynamic>0</dynamic>
-                    <sort_triggers>0</sort_triggers>
-                    <resource>
-                        <name>CPU load</name>
-                        <host>Indy-JKB-08</host>
-                    </resource>
-                    <max_columns>3</max_columns>
-                    <application/>
-                </screen_item>
-                <screen_item>
-                    <resourcetype>0</resourcetype>
-                    <width>500</width>
-                    <height>100</height>
-                    <x>1</x>
-                    <y>24</y>
-                    <colspan>1</colspan>
-                    <rowspan>1</rowspan>
-                    <elements>0</elements>
-                    <valign>0</valign>
-                    <halign>0</halign>
-                    <style>0</style>
-                    <url/>
-                    <dynamic>0</dynamic>
-                    <sort_triggers>0</sort_triggers>
-                    <resource>
-                        <name>Network traffic on Intel(R) Ethernet Connection (2) I219-LM</name>
-                        <host>Indy-JKB-08</host>
-                    </resource>
-                    <max_columns>3</max_columns>
-                    <application/>
-                </screen_item>
-                <screen_item>
-                    <resourcetype>0</resourcetype>
-                    <width>500</width>
-                    <height>100</height>
-                    <x>2</x>
-                    <y>24</y>
-                    <colspan>1</colspan>
-                    <rowspan>1</rowspan>
-                    <elements>0</elements>
-                    <valign>0</valign>
-                    <halign>0</halign>
-                    <style>0</style>
-                    <url/>
-                    <dynamic>0</dynamic>
-                    <sort_triggers>0</sort_triggers>
-                    <resource>
-                        <name>Memory usage</name>
-                        <host>Indy-JKB-08</host>
                     </resource>
                     <max_columns>3</max_columns>
                     <application/>
@@ -1730,6 +1664,72 @@
                     <height>100</height>
                     <x>0</x>
                     <y>25</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>CPU load</name>
+                        <host>Indy-JKB-08</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>1</x>
+                    <y>25</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>Network traffic on Intel(R) Ethernet Connection (2) I219-LM</name>
+                        <host>Indy-JKB-08</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>2</x>
+                    <y>25</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>Memory usage</name>
+                        <host>Indy-JKB-08</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>0</x>
+                    <y>26</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1751,7 +1751,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>25</y>
+                    <y>26</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1773,7 +1773,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>25</y>
+                    <y>26</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1785,7 +1785,7 @@
                     <sort_triggers>0</sort_triggers>
                     <resource>
                         <name>Memory usage</name>
-                        <host>Indy-JKB-08</host>
+                        <host>Indy-JKB-09</host>
                     </resource>
                     <max_columns>3</max_columns>
                     <application/>
@@ -1795,7 +1795,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>0</x>
-                    <y>26</y>
+                    <y>27</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1817,7 +1817,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>1</x>
-                    <y>26</y>
+                    <y>27</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1839,7 +1839,7 @@
                     <width>500</width>
                     <height>100</height>
                     <x>2</x>
-                    <y>26</y>
+                    <y>27</y>
                     <colspan>1</colspan>
                     <rowspan>1</rowspan>
                     <elements>0</elements>
@@ -1852,6 +1852,204 @@
                     <resource>
                         <name>Memory usage</name>
                         <host>Indy-JKB-10</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>0</x>
+                    <y>28</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>CPU load</name>
+                        <host>Indy-JKB-11</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>1</x>
+                    <y>28</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>Network traffic on Intel(R) Ethernet Connection (2) I219-LM</name>
+                        <host>Indy-JKB-11</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>2</x>
+                    <y>28</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>Memory usage</name>
+                        <host>Indy-JKB-11</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>0</x>
+                    <y>29</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>CPU load</name>
+                        <host>Indy-JKB-12</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>1</x>
+                    <y>29</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>Network traffic on Intel(R) Ethernet Connection (2) I219-LM</name>
+                        <host>Indy-JKB-12</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>2</x>
+                    <y>29</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>Memory usage</name>
+                        <host>Indy-JKB-12</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>0</x>
+                    <y>30</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>CPU load</name>
+                        <host>Indy-JKB-13</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>1</x>
+                    <y>30</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>Network traffic on Intel(R) Ethernet Connection (2) I219-LM</name>
+                        <host>Indy-JKB-13</host>
+                    </resource>
+                    <max_columns>3</max_columns>
+                    <application/>
+                </screen_item>
+                <screen_item>
+                    <resourcetype>0</resourcetype>
+                    <width>500</width>
+                    <height>100</height>
+                    <x>2</x>
+                    <y>30</y>
+                    <colspan>1</colspan>
+                    <rowspan>1</rowspan>
+                    <elements>0</elements>
+                    <valign>0</valign>
+                    <halign>0</halign>
+                    <style>0</style>
+                    <url/>
+                    <dynamic>0</dynamic>
+                    <sort_triggers>0</sort_triggers>
+                    <resource>
+                        <name>Memory usage</name>
+                        <host>Indy-JKB-13</host>
                     </resource>
                     <max_columns>3</max_columns>
                     <application/>
